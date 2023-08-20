@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=贝贝管理
+Comment=shineyueApp
+GenericName=bbgl
+Exec=bbgl --no-sandbox %U
+Icon=bbgl
+Type=Application
+StartupNotify=true
+Categories=Utility;
+
